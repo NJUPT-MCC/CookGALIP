@@ -1,0 +1,12 @@
+tqdm
+numpy
+easydict
+pandas
+jupyter
+pyyaml
+ipykernel
+scipy
+tensorboard
+ftfy
+regex
+tqdm

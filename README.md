@@ -1,7 +1,8 @@
 # CookGALIP: Recipe Controllable Generative Adversarial CLIPs with Sequential Ingredient Prompts for Food Image Generation
 ## Requirements:
-python 3.9 \
-pytorch 1.9 
+```
+pip install -r requirements.txt
+```
 ## Prepare Datasets:
 ### Download:
 Download the Recipe1M dataset from http://pic2recipe.csail.mit.edu/ \

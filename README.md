@@ -17,5 +17,5 @@ Download the Vireo Food-172 dataset from http://vireo.cs.cityu.edu.hk/VireoFood1
 <a href="https://drive.google.com/file/d/1yv-wNT3uIWiJauaIp3Y0K7ArnnDlEfhS/view?usp=drive_link">CookGALIP</a> for Recipe1M. \
 <a href="https://drive.google.com/file/d/15erHEzKohh71sF1qhywQjqix0ATh5Fl4/view?usp=drive_link">CookGALIP</a> for Vireo Food-172.
 
-I am currently in the process of updating my GitHub repository. Thank you for your patience and stay tuned for updates!
+Code is based on <a href="https://github.com/tobran/GALIP">GALIP</a>, thanks for their contributions. Thank you for your patience and stay tuned for updates!
 

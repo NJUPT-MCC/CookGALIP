@@ -1,4 +1,5 @@
-# CookGALIP: Recipe Controllable Generative Adversarial CLIPs with Sequential Ingredient Prompts for Food Image Generation
+# CookGALIP: Recipe Controllable Generative Adversarial CLIPs with Sequential Ingredient Prompts for Food Image Generation(TMM'24)
+Official Pytorch implementation for our paper.
 ## Requirements:
 ```
 pip install -r requirements.txt

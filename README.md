@@ -36,7 +36,7 @@ Download the Recipe1M dataset from http://pic2recipe.csail.mit.edu/ \
 Download the Vireo Food-172 dataset from http://vireo.cs.cityu.edu.hk/VireoFood172/
 
 ### Sample:
-The src/test.py can be used to sample food images.
+The <a href="https://github.com/NJUPT-MCC/CookGALIP/blob/main/src/test.py">src/test.py</a> can be used to sample food images.
 
 ### Evaluation: 
 #### Download the npz file:
